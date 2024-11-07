@@ -3,13 +3,11 @@
     width:1200px; height:600px; 
     border: 5px solid gold;
     margin: 15px;
-    border-radius: 15px;
     position: relative;
 }
 .nen
 {
     width:1200px; height:600px;
-    border-radius: 10px;
     position: relative;
 }
 .seaweed
